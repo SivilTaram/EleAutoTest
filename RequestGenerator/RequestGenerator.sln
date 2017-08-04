@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RequestGenerator", "RequestGenerator.csproj", "{22FF6CB3-C933-4F22-87AE-9D3FC68A90BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorDemo", "..\ElevatorDemo\ElevatorDemo.csproj", "{4BB302C6-152E-4B89-A744-84D714C5358B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoScore", "..\AutoScore\AutoScore.csproj", "{5CE5E040-678B-4A01-B966-0D17047EF4E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22FF6CB3-C933-4F22-87AE-9D3FC68A90BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FF6CB3-C933-4F22-87AE-9D3FC68A90BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FF6CB3-C933-4F22-87AE-9D3FC68A90BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FF6CB3-C933-4F22-87AE-9D3FC68A90BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB302C6-152E-4B89-A744-84D714C5358B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB302C6-152E-4B89-A744-84D714C5358B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB302C6-152E-4B89-A744-84D714C5358B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB302C6-152E-4B89-A744-84D714C5358B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE5E040-678B-4A01-B966-0D17047EF4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE5E040-678B-4A01-B966-0D17047EF4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE5E040-678B-4A01-B966-0D17047EF4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE5E040-678B-4A01-B966-0D17047EF4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
